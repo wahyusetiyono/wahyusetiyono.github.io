@@ -1,4 +1,4 @@
 # wahyusetiyono.github.io
-catatan wong bodo
+Lagi Kober Nyatet
 
 apa bae sing tek catet ya ben karepku
