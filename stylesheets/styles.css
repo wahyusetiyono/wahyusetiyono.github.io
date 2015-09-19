@@ -331,10 +331,14 @@ ul {
 /*
  * Corrects list images handled incorrectly in IE7
  */
-nav ul,
+nav ul,{
+  float : left;
+  text-decoration:none;
+}
 nav ol {
   list-style: none;
   list-style-image: none;
+  float : left;
 }
 
 /* =============================================================================
