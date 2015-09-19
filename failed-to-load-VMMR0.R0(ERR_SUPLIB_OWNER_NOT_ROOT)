@@ -1,0 +1,9 @@
+Virtualbox error seperti in
+
+failed to load VMMR0.R0 (ERR_SUPLIB_OWNER_NOT_ROOT)
+
+Dengan terminal ketik mantra
+
+sudo chown root:root /usr/
+
+Selesai
