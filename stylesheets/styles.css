@@ -331,14 +331,11 @@ ul {
 /*
  * Corrects list images handled incorrectly in IE7
  */
-nav ul,{
-  float : left;
-  text-decoration:none;
-}
+nav ul,
 nav ol {
   list-style: none;
   list-style-image: none;
-  float : left;
+
 }
 
 /* =============================================================================
@@ -716,8 +713,9 @@ dt {
   max-width: 650px;
   margin: 0 auto;
   padding: 0 10px;
-  background: blue;
+  background: black;
   margin: 6px auto;
+  float:left;
 }
 #header nav li {
   font-family: 'OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -728,6 +726,7 @@ dt {
   line-height: 50px;
   text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.2);
   font-size: 14px;
+  float:left;
 }
 #header nav li a {
   color: white;
