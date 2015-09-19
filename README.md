@@ -2,3 +2,5 @@
 Lagi Kober Nyatet
 
 apa bae sing tek catet ya ben karepku
+
+Digawe karo GithubPages, kesuwun
